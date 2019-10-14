@@ -7,7 +7,10 @@ Demonstrates:
 * Loading static assets
 * Saving data to a file (database.csv)
 
-## Getting started 
+## Hosted on PythonAnywhere:
+You can see the running code at  <http://shaynemeyer.pythonanywhere.com/>
+
+## Getting started locally
 ```bash
 export FLASK_APP=server.py
 export FLASK_ENV=development # turn on debugging
